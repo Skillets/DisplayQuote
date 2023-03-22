@@ -5,7 +5,7 @@ Contains a java executable, DisplayQuotes.java, and QuoteGenerator.java.
 DisplayQuotes - setup for the GUI and the active display of quotes.
 QuoteGeneartor - random obtaining of quotes and String cleanup, along with functionality for searching from an author.
 
-================================================
+
 Final Project for a Computer Science course. 
 Given a text file "Quotes_all" containing thousands of quotes, generates a random quote.
 
